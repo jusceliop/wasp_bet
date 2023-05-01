@@ -4,10 +4,10 @@
 
 
 #Listar todas as funções:
-print(functions())
+<br/>print(functions())
 
 #Enumere todas las funciones:
-print(functions())
+<br/>print(functions())
 
 #List all functions:
-print(functions())
+<br/>print(functions())
