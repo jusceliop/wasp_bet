@@ -4,10 +4,10 @@
 
 
 #Listar todas as funções:
-#print(functions())
+print(functions())
 
 #Enumere todas las funciones:
-#print(functions())
+print(functions())
 
 #List all functions:
-#print(functions())
+print(functions())
