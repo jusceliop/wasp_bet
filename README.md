@@ -10,4 +10,4 @@ print(functions())
 print(functions())
 
 #List all functions:
-print(functions())
+\nprint(functions())
