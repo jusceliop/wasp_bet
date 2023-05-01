@@ -16,8 +16,11 @@ Usage
 ------------
 .. code-block:: python
 
-    from colorama import just_fix_windows_console
-    just_fix_windows_console()
+    from wasp_sports.master_api import WaspConect
+    
+    API = WaspConect
+    
+    print(API.function)
 
 License
 ------------
