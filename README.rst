@@ -5,14 +5,14 @@ Query API of the World's Main Football Championships
 API de consulta de los principales campeonatos de fútbol del mundo
 ------------
 
-Installation
+#Installation
 ------------
 
 .. code-block:: bash
 
     pip install wasp_bet
 
-Usage
+#Usage
 ------------
 .. code-block:: python
 
@@ -22,6 +22,6 @@ Usage
     
     print(API.function)
 
-License
+#License
 ------------
 MIT
