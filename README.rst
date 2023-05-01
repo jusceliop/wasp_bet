@@ -2,13 +2,26 @@
 # Query API of the World's Main Football Championships
 # API de consulta de los principales campeonatos de fútbol del mundo
 
+## Installation
 
+```bash
 pip install wasp_bet
+```
 
+## Usage
 
-from wasp_sports.master_api import WaspConect
+```python
+import foobar
 
-#Listar todas as funções:
-#Enumere todas las funciones:
-#List all functions:
-print(functions())
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
