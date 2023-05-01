@@ -11,4 +11,4 @@ from wasp_sports.master_api import WaspConect
 #Listar todas as funções:
 #Enumere todas las funciones:
 #List all functions:
-<br/>print(functions())
+print(functions())
