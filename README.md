@@ -3,11 +3,12 @@
 # API de consulta de los principales campeonatos de fútbol del mundo
 
 
+pip install wasp_bet
+
+
+from wasp_sports.master_api import WaspConect
+
 #Listar todas as funções:
-<br/>print(functions())
-
 #Enumere todas las funciones:
-<br/>print(functions())
-
 #List all functions:
 <br/>print(functions())
